@@ -1,0 +1,2 @@
+# Electric-Vehicle-Adoption-and-Charging-Infrastructure
+As the United States shifts toward sustainable transportation, electric vehicle (EV) adoption continues to rise, but adoption alone is not enough. This project analyzes EV adoption trends in Washington State and compares them with charging station availability across the United States to evaluate whether infrastructure growth supports EV ecosystem
